@@ -7,8 +7,10 @@ The current goal for this project is to have a functional CLI word cloud generat
 - An option for colour palettes for the words displayed
 - Fixed font 
 - Fixed representation
+- Only allow English word representation
 
 ## Extended Features
 - The ability to choose a range of fonts
 - The ability to use different representation of word cloud
 - The ability to customise the distribution of the colours in the word cloud
+- Support for other latin scripts
